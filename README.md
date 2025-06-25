@@ -3,7 +3,7 @@
 ## 📌 Scenario
 Health Services, a regional healthcare provider, was hit by a severe ransomware attack that encrypted core patient records, disrupted operations, and raised serious patient safety concerns.
 I was  trained with the full response lifecycle.
-use packet tracer
+use packet tracer and vmware
 ---
 
 ## 🎯 Objectives
